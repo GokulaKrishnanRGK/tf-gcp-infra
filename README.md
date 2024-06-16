@@ -1,7 +1,8 @@
 # Cloud Infrastructure CI/CD on GCP
 
-[Application Server Repository](https://github.com/GokulaKrishnanRGK/cloud-webapp-server)
-[Serverless Function Repository](https://github.com/GokulaKrishnanRGK/serverless-function)
+
+- [Application Server Repository](https://github.com/GokulaKrishnanRGK/cloud-webapp-server)
+- [Serverless Function Repository](https://github.com/GokulaKrishnanRGK/serverless-function)
 
 ## Project Overview
 
@@ -58,3 +59,7 @@ This project involved the creation of a comprehensive CI/CD pipeline for cloud i
 4. **Apply Terraform Configuration**
    ```bash
    terraform apply
+
+### Additional Instructions
+- Generate server Packer build from [Application Server Repository](https://github.com/GokulaKrishnanRGK/cloud-webapp-server)
+- Generate serverless maven build from [Serverless Function Repository](https://github.com/GokulaKrishnanRGK/serverless-function)
