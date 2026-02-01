@@ -1,8 +1,8 @@
 # Cloud Infrastructure CI/CD on GCP
 
-
 - [Application Server Repository](https://github.com/GokulaKrishnanRGK/cloud-webapp-server)
 - [Serverless Function Repository](https://github.com/GokulaKrishnanRGK/serverless-function)
+- [IaC Infrastructure Repository in AWS](https://github.com/GokulaKrishnanRGK/tf-aws-infra)
 
 ## Project Overview
 
